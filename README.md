@@ -7,8 +7,6 @@ For those also working in a company where logging hours is not only part of
 continuous improvement but also making sure your hours sum up to 40 at the  
 end of the week, this app may also be used as a time logger before the  
 translation into your managers' favorite time-logging software. 
-(Note to myself: what about a feature to facilitate the export into popular
- applications using their API or a some format.)
 
 
 FIRST PHASE (CURRENT)
