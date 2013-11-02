@@ -17,7 +17,7 @@ section to enter time durations and view those durations chronologically.
 
 
 TODO
-====
+----
 
 - [ ] Prototype (without logic) of the NOW and LOG-EDITING sections
 - [ ] Decision about the save logic (HTML5 FileSystem API, NodeJS)
